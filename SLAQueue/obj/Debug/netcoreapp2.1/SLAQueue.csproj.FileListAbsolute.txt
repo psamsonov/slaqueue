@@ -1,0 +1,14 @@
+C:\Users\peter\Documents\Visual Studio 2017\Projects\SLAQueue\SLAQueue\bin\Debug\netcoreapp2.1\SLAQueue.deps.json
+C:\Users\peter\Documents\Visual Studio 2017\Projects\SLAQueue\SLAQueue\bin\Debug\netcoreapp2.1\SLAQueue.runtimeconfig.json
+C:\Users\peter\Documents\Visual Studio 2017\Projects\SLAQueue\SLAQueue\bin\Debug\netcoreapp2.1\SLAQueue.runtimeconfig.dev.json
+C:\Users\peter\Documents\Visual Studio 2017\Projects\SLAQueue\SLAQueue\bin\Debug\netcoreapp2.1\SLAQueue.dll
+C:\Users\peter\Documents\Visual Studio 2017\Projects\SLAQueue\SLAQueue\obj\Debug\netcoreapp2.1\SLAQueue.csprojAssemblyReference.cache
+C:\Users\peter\Documents\Visual Studio 2017\Projects\SLAQueue\SLAQueue\obj\Debug\netcoreapp2.1\SLAQueue.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\Visual Studio 2017\Projects\SLAQueue\SLAQueue\obj\Debug\netcoreapp2.1\SLAQueue.RazorAssemblyInfo.cache
+C:\Users\peter\Documents\Visual Studio 2017\Projects\SLAQueue\SLAQueue\obj\Debug\netcoreapp2.1\SLAQueue.RazorAssemblyInfo.cs
+C:\Users\peter\Documents\Visual Studio 2017\Projects\SLAQueue\SLAQueue\obj\Debug\netcoreapp2.1\SLAQueue.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\Visual Studio 2017\Projects\SLAQueue\SLAQueue\obj\Debug\netcoreapp2.1\SLAQueue.AssemblyInfo.cs
+C:\Users\peter\Documents\Visual Studio 2017\Projects\SLAQueue\SLAQueue\obj\Debug\netcoreapp2.1\SLAQueue.RazorTargetAssemblyInfo.cache
+C:\Users\peter\Documents\Visual Studio 2017\Projects\SLAQueue\SLAQueue\bin\Debug\netcoreapp2.1\SLAQueue.pdb
+C:\Users\peter\Documents\Visual Studio 2017\Projects\SLAQueue\SLAQueue\obj\Debug\netcoreapp2.1\SLAQueue.dll
+C:\Users\peter\Documents\Visual Studio 2017\Projects\SLAQueue\SLAQueue\obj\Debug\netcoreapp2.1\SLAQueue.pdb
