@@ -16,6 +16,14 @@ namespace SLAQueue.Services
         /// </summary>
         private static Dictionary<Guid, User> Users = new Dictionary<Guid, User>();
 
+        //Dummy data for testing
+        static UserService()
+        {
+            Users.Add(Guid.Parse("00000000-0000-0000-0000-000000000000"), new User { SLAClass = SLAClass.BestEffort, Id = Guid.Parse("00000000-0000-0000-0000-000000000000") } );
+            Users.Add(Guid.Parse("00000000-0000-0000-0000-000000000001"), new User { SLAClass = SLAClass.TenMinutes, Id = Guid.Parse("00000000-0000-0000-0000-000000000001") });
+            Users.Add(Guid.Parse("00000000-0000-0000-0000-000000000002"), new User { SLAClass = SLAClass.OneHour, Id = Guid.Parse("00000000-0000-0000-0000-000000000002") });
+        }
+
         /// <summary>
         /// Creates a new user with the specified SLA class
         /// </summary>
